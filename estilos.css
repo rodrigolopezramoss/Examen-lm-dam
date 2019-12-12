@@ -103,7 +103,7 @@ footer p{
 @media screen and (max-width: 550px) {
     header{
       background-image: url("imagenes/cabecera2.jpg");
-      height: 700px;
+      height: 750px;
       position: relative;
   }
   main img {
